@@ -1,0 +1,3 @@
+Project=StudentManagement
+Version=1.0
+Port=5000
