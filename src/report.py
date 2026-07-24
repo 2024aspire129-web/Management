@@ -1,4 +1,4 @@
 def report():
-    print("Feature Branch")
+    print("Conflict Branch change")
 
 report()
